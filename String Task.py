@@ -1,4 +1,4 @@
-vowel =['a','A','E','e','I','i','O','o','U','u']
+vowel =['a','A','E','e','I','i','O','o','U','u','Y','y']
 value=input()
 L = list(value)
 finaloutput=''
